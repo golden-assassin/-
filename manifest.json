@@ -4,9 +4,7 @@
   "version": "1.1.4",
   "content_scripts": [
     {
-      "js": [
-        "file.js",
-      ],
+      "js": "file.js",
       "matches": [
         "www.twitch.tv/*"
       ]
