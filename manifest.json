@@ -6,7 +6,7 @@
     {
       "js": ["script/file.js"],
       "matches": [
-        "www.twitch.tv/*"
+        "https://www.twitch.tv/*"
       ]
       
     }
