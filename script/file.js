@@ -6,6 +6,7 @@ if (location.host === "www.twitch.tv") {
       console.log("すね毛",sunege)
       if (sunege && window.getComputedStyle(sunege).display !== 'none') {
         sunege.click();
+        console.log("回収")
       }
     }
   })();
